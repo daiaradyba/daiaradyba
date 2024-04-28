@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ooi! Eu sou a Daiara☕
+
+Bem-vinda(o) ao meu perfil GitHub! 😊
+
+## Linguagens e Ferramentas:
+- JavaScript
+- HTML5
+- CSS
+- React
+- React Native
+- C
+- Assembly
+- Python
+  

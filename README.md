@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **daiaradyba/daiaradyba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +27,7 @@ Bem-vinda(o) ao meu perfil GitHub! 😊
 - Assembly
 - Python
   
+
+![Daiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiaradyba&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiara&layout=compact)
+

@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 # Ooi! Eu sou a Daiara☕
 
+#Link Aula 02 Perdendo Medo de Exatas
+https://editor.p5js.org/daiaradyba/sketches/djGEBzFem
+
 Bem-vinda(o) ao meu perfil GitHub! 😊
 
 ## Linguagens e Ferramentas:

@@ -29,6 +29,8 @@ Bem-vinda(o) ao meu perfil GitHub! 😊
 - C
 - Assembly
 - Python
+- DSP
+- MICROCONTROLADORES
   
 
 ![Daiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiaradyba&show_icons=true&theme=radical)

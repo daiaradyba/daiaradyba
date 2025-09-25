@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #Link Aula 02 Perdendo Medo de Exatas
 https://editor.p5js.org/daiaradyba/sketches/djGEBzFem
-https://drive.google.com/drive/folders/1lwl594aOUuZMNcHuZ-me_ez3CUMP_2RF?usp=sharing
+
 Bem-vinda(o) ao meu perfil GitHub! 😊
 
 ## Linguagens e Ferramentas:
